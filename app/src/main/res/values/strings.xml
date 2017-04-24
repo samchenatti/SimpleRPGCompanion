@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_skill_label">Primeira Habilidade</string>
+    <string name="second_skill_label">Segunda Habilidade</string>
+    <string name="third_skill_label">Terceira Habilidade</string>
+    <string name="fourth_skill_label">Quarta Habilidade</string>
+    <string name="fifth_skill_label">Quinta Habilidade</string>
+</resources>
